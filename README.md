@@ -54,6 +54,6 @@ Welcome to the AI-Powered GIF Generator! This innovative Python project transfor
 
 ## Contact:
 
-## **email -- nirmalsujit981@gmail.com**
-## **github username** -- @blacksujit  
+### **email -- nirmalsujit981@gmail.com**
+### **github username** -- @Blacksujit  
  
