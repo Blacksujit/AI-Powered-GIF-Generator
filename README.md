@@ -1,13 +1,13 @@
  
 
-# AI-Powered GIF Generator 🎨🔄:
+# GifGenie🎨🔄:
 
 ![image_processing20210729-32645-tn0q8p](https://github.com/user-attachments/assets/c5373432-cf8d-4959-a363-17d9b58e8f10)
 
 
 ## Overview
 
-Welcome to the AI-Powered GIF Generator! This innovative Python project transforms static images into captivating, stylized GIFs using advanced machine learning techniques. By leveraging the power of PyTorch and the Microsoft ResNet-50 model, this tool applies unique style transfers, rotations, and visual enhancements to create eye-catching animated GIFs.
+GifGenie is an innovative AI-powered GIF generator designed to transform your images and videos into captivating animated GIFs in seconds. With its intuitive interface and advanced machine learning algorithms, GifGenie empowers users to create stunning, high-quality GIFs effortlessly, making it the perfect tool for social media enthusiasts, marketers, and content creators.
 
 ## Problem Faced While Searching for GIF Images:
 
