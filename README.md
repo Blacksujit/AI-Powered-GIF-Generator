@@ -1,6 +1,6 @@
  
 
-# GifGenie🎨🔄:
+# GifGenie🎨🔄
 
 ![image_processing20210729-32645-tn0q8p](https://github.com/user-attachments/assets/c5373432-cf8d-4959-a363-17d9b58e8f10)
 
