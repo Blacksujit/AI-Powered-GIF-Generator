@@ -7,7 +7,7 @@
 
 ## Overview
 
-GifGenie is an innovative AI-powered GIF generator designed to transform your images and videos into captivating animated GIFs in seconds. With its intuitive interface and advanced machine learning algorithms, GifGenie empowers users to create stunning, high-quality GIFs effortlessly, making it the perfect tool for social media enthusiasts, marketers, and content creators.
+GifGenie is an innovative AI-powered GIF generator python script designed to transform your images and videos into captivating animated GIFs in seconds. With its intuitive interface and advanced machine learning algorithms, GifGenie empowers users to create stunning, high-quality GIFs effortlessly, making it the perfect tool for social media enthusiasts, marketers, and content creators.
 
 ## Problem Faced While Searching for GIF Images:
 
